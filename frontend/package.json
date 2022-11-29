@@ -52,6 +52,5 @@
   "devDependencies": {
     "@types/styled-components": "^5.1.26",
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "http://SakovichVl.github.io/erc-20_test_task/frontend"
+  }
 }
